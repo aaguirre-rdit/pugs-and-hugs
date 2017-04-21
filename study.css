@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: #FFF;
+  font-size: 42px;
+  font-weight: 500;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  padding:100px;
+  margin-top: 20px;
+  text-shadow:2px 0 0#000000;
+
+.h3 {
+  color: #AAA;
+
+  }
+}
+section {
+  display: block,
+}
+#logo {
+  position:relative;
+  top:70px;
+  border:none;
+  outline:none;
+}
+#lang-select{
+  position:relative;
+  top:7px;
+}
+.navigation {
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  text-transform: uppercase;
+
+}
+body {
+  background-color: #FBFBFB;
+  font-family: 'Raleway', sans-serif;
+  margin:auto;
+  padding:auto;
+  
+}
+ul {
+  margin: 0;
+  padding: 0;
+  text-decoration:none;
+
+}
+li {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom:20px;
+  display: inline-block;
+  float:center;
+  text-decoration:none;
+}
+.banner{
+  text-allign:center;
+  margin:0 auto;
+}
+#banner1-content {
+  background-image: url("studyss.jpg")
+  background-position: bottom center;
+  height: 300px;
+  width: 60%;
+  margin:0;
+  text-align: center;
+  position:relative;
+  margin:0 auto;
+}
+#banner-content {
+  text-allign:center;
+  position: relative;
+  top: 100px;
+  width: 60%;
+  padding: 30px 10px;
+  margin: 30px;
+  text-align:center;
+}
+h2,#Learn {
+  color: #FFF;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin: 0;
+  text-align: center;
+}
+h2{
+  padding-bottom: 5px;
+}
